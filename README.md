@@ -1,0 +1,1 @@
+This repository contains a Python example demonstrating an uncommon coding error. The code includes a `ZeroDivisionError` that is conditionally masked, making it difficult to debug.  The solution demonstrates a robust approach to handling such edge cases.
